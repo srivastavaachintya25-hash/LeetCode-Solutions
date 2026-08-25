@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1695-maximum-erasure-value](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 ## Sliding Window
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1695-maximum-erasure-value](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [1695-maximum-erasure-value](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
