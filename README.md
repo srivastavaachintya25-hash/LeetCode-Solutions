@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1695-maximum-erasure-value](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1695-maximum-erasure-value](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
