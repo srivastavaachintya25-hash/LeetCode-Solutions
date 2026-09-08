@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1695-maximum-erasure-value](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Queue
