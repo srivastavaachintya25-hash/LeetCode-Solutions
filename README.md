@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1695-maximum-erasure-value](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3692-majority-frequency-characters](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3692-majority-frequency-characters](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3692-majority-frequency-characters](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Queue
 |  |
 | ------- |
