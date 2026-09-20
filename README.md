@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
