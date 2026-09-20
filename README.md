@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3692-majority-frequency-characters](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Sorting
 |  |
