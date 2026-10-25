@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0143-reorder-list) |
 ## Stack
 |  |
