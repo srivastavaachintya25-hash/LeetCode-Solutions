@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
