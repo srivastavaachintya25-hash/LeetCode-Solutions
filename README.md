@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
@@ -132,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
