@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3692-majority-frequency-characters](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/3692-majority-frequency-characters) |
 ## Sorting
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
