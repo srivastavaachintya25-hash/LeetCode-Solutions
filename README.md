@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1695-maximum-erasure-value](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
