@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/srivastavaachintya25-hash/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
